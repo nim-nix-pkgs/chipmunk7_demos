@@ -11,6 +11,7 @@
   inputs.src-chipmunk7_demos-master.ref   = "refs/heads/master";
   inputs.src-chipmunk7_demos-master.owner = "matkuki";
   inputs.src-chipmunk7_demos-master.repo  = "chipmunk7_demos";
+  inputs.src-chipmunk7_demos-master.dir   = "";
   inputs.src-chipmunk7_demos-master.type  = "github";
   
   inputs."sdl2".owner = "nim-nix-pkgs";
