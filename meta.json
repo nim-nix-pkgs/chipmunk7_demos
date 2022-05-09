@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/matkuki/chipmunk7_demos",
   "refs": [
-    "fatal: unable to access 'https://github.com/matkuki/chipmunk7_demos/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/matkuki/chipmunk7_demos/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
