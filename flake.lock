@@ -14,11 +14,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658019230,
-        "narHash": "sha256-Wjrbf2ctr+l5/JA7jPW4Oe4AGsTfOAYE6IH6pEbi764=",
+        "lastModified": 1658033128,
+        "narHash": "sha256-aXZve/BC/jWektaPGP7r/Jty5YHFPyNzgR+pesKwaoU=",
         "owner": "nim-nix-pkgs",
         "repo": "chipmunk7_demos",
-        "rev": "c8ddcf4900e2341c52e043ac4d6bec9e3d970802",
+        "rev": "02aa6ed774c29996708fb65bbfcb1175bada8cca",
         "type": "github"
       },
       "original": {
